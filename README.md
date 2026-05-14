@@ -1,12 +1,4 @@
-# Ahmed Shlule
+# JavaScript All-in-One For Dummies
 
-## Procedure
-
-1. Install JavaScript
-
-```
-case1
-case 2
-```
-
-2. Install Node.js
+I'm learning JavaScript, React, Vue, Svelte, and Node
+from JavaScript All-in-One For Dummies by Chris Minnick
